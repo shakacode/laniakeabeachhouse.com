@@ -1,0 +1,8 @@
+{
+  "name": "laniakea-beachhouse-static",
+  "private": true,
+  "scripts": {
+    "dev": "npx wrangler pages dev static",
+    "deploy": "npx wrangler pages deploy static --project-name laniakea-beachhouse"
+  }
+}

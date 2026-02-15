@@ -1,2 +1,4 @@
-/rooms-beds /rooms-beds/ 301
-/videos /videos/ 301
+/rooms-beds /rooms-beds.html 301
+/rooms-beds/ /rooms-beds.html 301
+/videos /videos.html 301
+/videos/ /videos.html 301

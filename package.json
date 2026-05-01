@@ -3,6 +3,10 @@
   "private": true,
   "scripts": {
     "dev": "npx wrangler pages dev static",
-    "deploy": "npx wrangler pages deploy static --project-name laniakea-beachhouse"
+    "deploy": "wrangler deploy",
+    "preview": "wrangler dev"
+  },
+  "devDependencies": {
+    "wrangler": "^4.68.0"
   }
 }
